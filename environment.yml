@@ -5,7 +5,7 @@ dependencies:
   - numpy
   - ipywidgets
   - matplotlib
-  - dbasemap
+  - basemap
   - pandas
   - scipy
   - datetime
