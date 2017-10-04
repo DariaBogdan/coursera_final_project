@@ -1,1 +1,7 @@
 basemap
+ipywidgets
+matplotlib
+scipy
+datetime
+pandas
+numpy
