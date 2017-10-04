@@ -1,7 +1,11 @@
-basemap
-ipywidgets
-matplotlib
-scipy
-datetime
-pandas
-numpy
+name: example-environment
+
+dependencies:
+  - python=2.7
+  - numpy
+  - ipywidgets
+  - matplotlib
+  - dbasemap
+  - pandas
+  - scipy
+  - datetime
