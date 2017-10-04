@@ -3,4 +3,3 @@ mpl_toolkits
 matplotlib
 scipy
 datetime
-IPython
