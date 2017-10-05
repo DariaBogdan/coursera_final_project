@@ -3,7 +3,7 @@ name: example-environment
 dependencies:
   - python=2.7.12
   - numpy=1.11.3
-  - ipywidgets=5.2.2
+  - ipywidgets=6.0.0
   - matplotlib=2.0.0
   - basemap
   - pandas=0.19.2
