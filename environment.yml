@@ -1,6 +1,7 @@
 name: example-environment
 
 dependencies:
+  - python=2.7.12
   - numpy=1.11.3
   - ipywidgets=5.2.2
   - matplotlib=2.0.0
